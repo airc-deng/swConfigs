@@ -1,0 +1,2 @@
+/home/wenfeng_wu *(rw,sync,no_root_squash)
+/home/haishao_deng *(rw,nohide,insecure,no_subtree_check,async,no_root_squash)
