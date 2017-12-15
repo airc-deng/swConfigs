@@ -1,0 +1,15 @@
+#Fri Dec 15 09:33:04 CST 2017
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+@org.eclipse.ui.editors=3.8.200.v20140401-1310
+/instance/org.eclipse.cdt.ui/content_assist_disabled_computers=org.eclipse.cdt.ui.textProposalCategory\u0000org.eclipse.cdt.ui.parserProposalCategory\u0000
+/instance/org.eclipse.ui.editors/indexResultIndicationColor=255,165,0
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=171,207,228
+\!/=
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceIndicationColor=255,255,0
+/instance/org.eclipse.cdt.ui/scalability.detect=false
+@org.eclipse.cdt.ui=5.9.0.201502131403
+/instance/org.eclipse.cdt.ui/semanticHighlighting.globalVariable.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.globalVariable.color=255,0,0
+/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceIndicationColor=255,255,0
+/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.isOccurrenceGoToNextNavigationTarget=true
